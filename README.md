@@ -30,9 +30,9 @@ The final deliverable includes:
 ---
 
 ## 👥 Group Members & Roles
-- **IT24100092 – Kularathne I M A G** → Outlier removal  
+- **IT24100162 – Suriyaarachchi R H** → Outlier removal  
 - **IT24100192 – Induwara K A A K** → Encoding categorical variables  
-- **IT24100162 – Suriyaarachchi R H** → Feature engineering  
+- **IT24100092 – Kularathne I M A G** → Feature engineering  
 - **IT24100072 – Weliweriya W.L.P.T** → Feature selection  
 - **IT24100201 – Dasanayaka D M H N A** → Class balancing (SMOTE)  
 - **IT24100213 – Thujeev K** → Normalization / Scaling  
